@@ -53,4 +53,4 @@ Steps
 
 Done
 ----
-You can checkout the branch exercise-results for a working project and review possible differences.
+You can checkout the branch `result` for a working project and review possible differences.
